@@ -26,7 +26,7 @@
 
 ## 🧠 Візуалізація
 ## 🧩 Приклад візуалізації
-!assets/Twitch.PNG
+![Twitch dashboard](assets/Twitch.PNG)
 🎯 Переглянути дашборд у Looker Studio:
 👉 [Відкрити в новій вкладці](https://lookerstudio.google.com/reporting/fbbeea2e-8b64-43b8-9914-10145cdacb87)
 
